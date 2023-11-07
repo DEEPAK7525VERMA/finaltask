@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-void main() => runApp(PokedexApp());
-
+void main(){
+  runApp(ProviderScope(child:PokedexApp()));
+}
 class PokedexApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
