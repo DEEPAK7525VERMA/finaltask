@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674215969623",
+    "project_id": "flutter-firebase-6a8ab",
+    "storage_bucket": "flutter-firebase-6a8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674215969623:android:4207cc3a2bb372ecb93412",
+        "android_client_info": {
+          "package_name": "com.example.pokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8mr2lhQpvH89uR6emiRTVL5vTPYymyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
